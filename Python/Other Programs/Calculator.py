@@ -9,9 +9,9 @@ while looping :
 	if operator is '+':
 		print(number1+number2)
 	elif operator is '-':
-		print(number1+number2)
+		print(number1-number2)
 	elif operator is '*':
-		print(number1+number2)
+		print(number1*number2)
 	elif operator is '/':
 		if number2 is not 0:
 			print(number1/number2)
