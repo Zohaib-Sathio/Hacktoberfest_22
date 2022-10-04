@@ -1,4 +1,5 @@
 /*program which tells the letter is vowel or consonant*/
+// This program is taking String as input, you guys can also take char as input and compare it!!
 import java.util.*;
 public class Vowelconsonant
 {
