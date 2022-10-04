@@ -1,10 +1,11 @@
-number = int(input("Enter number: "))  
-  
-nmb = 0  
- 
-while (number > 0):   
-    remainder = number % 10  
-    nmb = (nmb * 10) + remainder  
-    number = number // 10  
-   
-print("The reverse number is : {}".format(nmb))  
+# If the number is positive, we print an appropriate message
+
+num = 3
+if num > 0:
+    print(num, "is a positive number.")
+print("This is always printed.")
+
+num = -1
+if num > 0:
+    print(num, "is a positive number.")
+print("This is also always printed.")
