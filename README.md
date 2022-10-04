@@ -31,4 +31,4 @@ Step 12. You're done !
 
 Note: Have patience till your PR gets reviewed and accepted/merged.
 
-# OR YOU CAN USE GITHUB DESKTOP APP TO CLONE THE REPO AND MAKE CHANGES IN IT.
+## OR YOU CAN USE GITHUB DESKTOP APP TO CLONE THE REPO AND MAKE CHANGES IN IT.
