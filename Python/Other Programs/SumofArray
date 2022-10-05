@@ -1,0 +1,12 @@
+# Problem Statement
+# Sum of the Array in Python without in-built methods
+
+def sum_of_array(arr):
+    sum = 0
+    for i in (arr):
+        sum = sum + i
+    return(sum)
+
+arr = [15, 20, 36, 40]
+total = sum_of_array(arr)
+print("the sum of the given array is:",total)
