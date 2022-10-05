@@ -9,6 +9,15 @@ public class CheckPalindrome {
       for (int i = value.length() - 1; i >= 0; i--) {
         temp = temp + (value.charAt(i));
       }
-      System.out.println(temp);
+      System.out.println("Result: " + temp + "\n");
+      
+      int j = 0;
+      if (j < value.length() / 2) {
+        if (value.charAt(j) != value.charAt(value.length() - 1)) {
+            System.out.println("Not Palindrome");
+        } else {
+            System.out.println("Palindrome");
+        }
+      }
     }
 }
