@@ -1,0 +1,5 @@
+.metals/metals.lock.db
+.metals/metals.mv.db
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+.metals/metals.log
